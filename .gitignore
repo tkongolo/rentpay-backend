@@ -1,0 +1,24 @@
+# Data
+db.sqlite3
+
+# Folders
+__pycache__
+venv/
+env/
+virtual/
+media/
+keys/
+.vscode
+
+# Compiled and configuration files
+.env
+*.pyc
+*.bak
+*.dat
+*.dir
+*.pid
+*.rdb
+*.ini
+*.txt
+*.pem
+celery*
